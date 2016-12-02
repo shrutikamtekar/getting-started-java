@@ -27,7 +27,7 @@ Copyright 2016 Google Inc.
     <div class="navbar navbar-default">
       <div class="container">
         <div class="navbar-header">
-          <div class="navbar-brand">Bookshelf</div>
+          <div class="navbar-brand">Barnes & Nobel</div>
         </div>
         <ul class="nav navbar-nav">
           <li><a href="/">Books</a></li>
